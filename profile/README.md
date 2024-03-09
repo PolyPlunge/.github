@@ -2,7 +2,7 @@
 Hi everyone! This is project of underwater drone project for scientific research, carried by students of [Polytech university](https://english.spbstu.ru/):
 * [Dmitriy Shelkovnikov](https://github.com/dimkashelk)
 * [Nikolai Turkin](https://github.com/urlagushka)
-* Ivan Fesenko
+* [Ivan Fesenko](https://github.com/Fesen-chel)
 * Nikita Marusov
 * Ivan Bunyakov
 
