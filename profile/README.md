@@ -9,7 +9,7 @@ Hi everyone! This is project of underwater drone project for scientific research
 
 ## About dron
 In following repos you can explore different parts of our project:
-* [pdsoft](https://github.com/VodolazyPolytech/soft) - our code
-* [uwinfo](https://github.com/VodolazyPolytech/dron) - some info about project
-* [uwcad]() - our drawings and models of uwdron
-* [uwscience]() - various calculations of the drone's operation
+* [pdsoft](https://github.com/PolyPlunge/pdsoft) - our code
+* [pdinfo](https://github.com/PolyPlunge/pdinfo) - some info about project
+* [pdcad](https://github.com/PolyPlunge/pdcad) - our drawings and models of dron
+* [pdscience](https://github.com/PolyPlunge/pdscience) - various calculations of the drone's operation
