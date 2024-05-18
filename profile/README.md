@@ -13,5 +13,3 @@ In following repos you can explore different parts of our project:
 * [uwinfo](https://github.com/VodolazyPolytech/dron) - some info about project
 * [uwcad]() - our drawings and models of uwdron
 * [uwscience]() - various calculations of the drone's operation
-
-потом доделаю, мне идти надо
